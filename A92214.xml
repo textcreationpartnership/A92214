@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reason against treason: or, A bone for Bradshaw to picke.</title>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92214</idno><idno type="EEBO-CITATION">99865265</idno>
+  <idno type="VID">117504</idno>
+  <idno type="EEBO-PROQUEST">2240919870</idno>
+  
+            <idno type="STC">Wing R460</idno>
+            <idno type="STC">Thomason E563_8</idno>
+            <idno type="STC">ESTC R206077</idno>
+            <idno type="PROQUEST">99865265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865265e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E563[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reason against treason: or, A bone for Bradshaw to picke.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 9th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117504:1"/>
+            <p>REASON AGAINST TREASON: OR, A Bone for <hi>Bradshaw</hi> to Picke.</p>
+            <q>
+               <p>Imperium cupientibus nihil medium est Inter precipitia &amp; summa.</p>
+               <bibl>
+                  <hi>Tacit.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Insidiantur temporibus aliena appe<g ref="char:EOLhyphen"/>tentes.</p>
+               <bibl>
+                  <hi>Polybius.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeer 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:117504:2"/>
+            <pb n="1" facs="tcp:117504:2"/>
+            <head>REASON against TREASON.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y an Ordinance of God Coeuall to the creation of <hi>Adam,</hi> all the societies of mankind have bin limitd to a Magistracy, or Government, the word hath for its Correlative subjection, and wheresoever the power is placed, it challengeth a Re<g ref="char:EOLhyphen"/>verence by participation of Divine sove<g ref="char:EOLhyphen"/>raignty: for as the soul hath as good an understanding in an Idiot, and as good a memory in a lethargique person, as in the wisest, and the liveliest man: so hath soveraignty in eve<g ref="char:EOLhyphen"/>ry State equall vigour, though the organs by which it work<g ref="char:EOLhyphen"/>eth be not in all alike disposed: we have no <hi>Scriptum est,</hi> no written Word to command, or commend our forme above another, and it were an absurdity to beleeve we had any such limitation; for then we should be prone to condemne all those communities which are not specificated to our forme, as violations of Gods Ordinance, and to pronounce them, or to imply our own unlawfull; but of this timerity the A<g ref="char:EOLhyphen"/>postle hath most pregnantly insinuated a prohibition, say<g ref="char:EOLhyphen"/>ing, <hi>The Powers that are, are ordained of God:</hi> the propensions of such men are too fleet for their judgement, that would from hence inferre a liberty to turne about the great wheele of selfe interest, and to center their obedience onely in the windefals of advantage. This I know is the Doctrine of our selfe seeking times, and against this I bend my present dis<g ref="char:EOLhyphen"/>course. For when by the Gubernative reason of God (his Providence) a right is conveyed to a Person or Family, by
+<pb n="2" facs="tcp:117504:3"/>the meanes of a Publique fundamentall Oath, or a contract and agreement of State, it becomes equivalent to a divine Word, and within the conditions, bounds, and provisions of that Publique agreement; the conveighed power is as obligatory, as if the priviledge of an extraordinary Word had designed it; and with this agreeth S<seg rend="sup">t</seg>. <hi>Ambrose, Irrevoca<g ref="char:EOLhyphen"/>biliter Populus libertatem alienat cum regem elegerit:</hi> The People upon their choyce of a King doe irrevocably alienate their liberty; neither let any man be so brain sick as to beleeve them, that doe not indeed beleeve themselues, when they af<g ref="char:EOLhyphen"/>firme that regall Authority is derived from man; for the e<g ref="char:EOLhyphen"/>lection of a King doth but represent him to God. When the People from the dictates of rectified reason have begot such a forme of Government, then doth God infuse the soule of power into it; not that men have lighted a King at the can<g ref="char:EOLhyphen"/>dle of their election, or transferred certaine degrees of Juris<g ref="char:EOLhyphen"/>diction into him, for God hath immediately imprinted in mans nature to be subject to a power infused by him: and therefore it is a muddy and a cloudy search, to trace into the first root of Jurisdiction, since it is not grounded in man. Proofe of this we have had brought to us from the remotest parts of the World, the discoveries that have been made in<g ref="char:EOLhyphen"/>to <hi>Peru, Mexico, Brazill, China,</hi> and other places, doe suffici<g ref="char:EOLhyphen"/>ently demonstrate that men voyd of all learning and Reli<g ref="char:EOLhyphen"/>gion doe by the light of nature subject themselves to one as their King; and shall we that have for almost one thousand yeers upwards in our generations florished under the go<g ref="char:EOLhyphen"/>vernment of Kings in al variety of blessings, against the com<g ref="char:EOLhyphen"/>mandement of God, murther them, dishonour them, and banish them?</p>
+            <p>We have for seven yeers insensibly wasted and languished, by the specificall poysons of co-ordination, and the superio<g ref="char:EOLhyphen"/>rity of the People over their King; but let us speedily take downe some Antidotes before our vitall spirits be consum<g ref="char:EOLhyphen"/>ed. Let us no longer be infatuated to follow them, or feare them, that thinke it no bad bargaine to assure upon them<g ref="char:EOLhyphen"/>selves an eternity of damnation, to purchase a ticklish, trou<g ref="char:EOLhyphen"/>blesome
+<pb n="3" facs="tcp:117504:3"/>and transitory sway. Let not our Purses be any dee<g ref="char:EOLhyphen"/>per purged by the gilded pill of Justice and Reformation; for can they thinke themselves religious, that destroy them whom the Lord hath commanded them to honour? But here presseth in an irresistable opposer, one <hi>John Goodwin,</hi> or if you desire a surer Character of him, one <hi>Mariana</hi> of the So<g ref="char:EOLhyphen"/>ciety of <hi>Jesus,</hi> improved by a metempeucosis; he will tell you out of his last booke, that the People are above the King, and he will prove it, and out of Scripture too; for, saith he, as the Man was not created for the Woman, but the Woman for the Man; for <hi>Adam</hi> was first formed, and then <hi>Eve;</hi> so the People are not for the King, but the King for the People, and therefore above him, and when he proves a Delinquent, draw up his Charge, and dispatch him. S<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h as the mans Interest is, such is his inference; for may I not prove with as good consequence, that a Wolfe (especially <hi>John Goodwin</hi> in Sheeps clothing) is also above the King; for we read that the Beasts of the field were created before Man: how fulsome is this from such a man? how ranke it sen<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the Sister<g ref="char:EOLhyphen"/>hood? it hath me thinkes the very Hant-goast of a Conven<g ref="char:EOLhyphen"/>ticle.</p>
+            <p>Now if you will demand of him who shall be Judge of the Kings misdemeanours or delinquency, he ecchoeth the People (for <hi>vox Populi</hi> must be <hi>vox Dei,</hi> till they are all fool<g ref="char:EOLhyphen"/>ed into a whirlpoole of misery) that is, the Representatives of the People, that is the Parliament, that is the House of Commons, that is the Army, that is the Councell of State, that is, a company of men in whom neither Faith, Oath, nor Altar take place: <hi>Qui in templis fulminantem prierant Jo<g ref="char:EOLhyphen"/>vem.</hi> The first Sacraments of whose confederacy were perju<g ref="char:EOLhyphen"/>ry, sacriledge, and plunder; even these People must accuse, judge, and condemne their lawfull, just, and religious King. But what was the Kings Delinquency? why? in one place <hi>John Goodwin</hi> will tell you, he was guilty of all the blood that hath bin spilt since these Warres began; and in another place, he telleth the sneaking Presbyterians (to whom they have given the goe by) that he wondereth they should ac<g ref="char:EOLhyphen"/>count
+<pb n="4" facs="tcp:117504:4"/>the proceedings against the King to be rigorous or unjust; for, saith he, the sad condition of the King hath h<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the prize for which the People for seven yeers together have run through fire and blood; and should they be now dis<g ref="char:EOLhyphen"/>contented for their successe of obtaining it. Compare these two places together, and you may soon know where the gl<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of blood must be charged: and also take notice of the con<g ref="char:EOLhyphen"/>science of the Man, whose fore-head is so hard as to prosti<g ref="char:EOLhyphen"/>tute his complicated evidences to an infamous fame. But thus oft times God suffers wise men to confute themselves: <hi>Aliquando bonus dormitat Homerus.</hi> In all emergencies of con<g ref="char:EOLhyphen"/>testation and difference, it is by all men held equitable to submit to the umperage of some third disinterested party; and if we offer the Royall cause to the determination of An<g ref="char:EOLhyphen"/>tiquity, doubtlesse we send no foule challenge, for he that will deny credit to Antiquity, doth teach Posterity how lit<g ref="char:EOLhyphen"/>tle credit will be due to us: and certainly, when they come to examine the transactions of our righteous Parliament, the greatest wonder will be, that we should have so many ap<g ref="char:EOLhyphen"/>pearances of Civility, and so little practise; so many Books, and yet so much barbarisme (unlesse perhaps it may seem a greater wonder, that they left us any Books) but whilest we have them let us make use of them.</p>
+            <p>My first Author shall be a man of late dayes, and when be lived able to justifie his words against <hi>John Goodwin. Enim a quo aliquis constituitur esse superiorem constituto, verum est duntanit in ea constitutione cujus effectus perpetuo de peudet a voluntate consti<g ref="char:EOLhyphen"/>tuentis, non autem in ea quae ab initio est volentis, post ea vero effe<g ref="char:EOLhyphen"/>ctum habet necessitatis, quomodo mulier virum sibi constituit, <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i p<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ve semper necesse se habet.</hi> For the benefit of all Readers thus in English; In such a constitution where the constituted or elected Prince, is alwayes in the power, or at the will of the electours, there onely the People or Electours may be said to be above the Prince; but not so in that constitution (and this is our case) where that which at first was an act of the Peoples will, doth afterwards successively devolué into an effect of necessity; as a Woman solitary may choose or refuse
+<pb n="5" facs="tcp:117504:4"/>a Hvsband, but being married she hath contracted upon her selfe a necessity of perpetuall obedience.</p>
+            <p>My proofe of the second magnitude cometh from <hi>Thomas Aquinas,</hi> a Doctour of whose authority I know <hi>John Goodwin</hi> will not despise, for in one passage of his last Booke he tel<g ref="char:EOLhyphen"/>leth his Reader by words of crafty diminution (like a Citi<g ref="char:EOLhyphen"/>zen that vents his Wares by darke lights) that a baubling Crucifix will sufficiently put a devout Christian in remem<g ref="char:EOLhyphen"/>brance of his Saviours passion: this is a shrewd straine of ridling <hi>Independency.</hi> But in another place he is not altoge<g ref="char:EOLhyphen"/>ther so reserved; for he saith, the Papists are as acute, as solid and as sound as the Protestants, unlesse in some Controver<g ref="char:EOLhyphen"/>sies where they differ from us. Where you may observe the word Us, and those words the Protestants are contra<g ref="char:EOLhyphen"/>distinguished, hee including him selfe in the monosgillable Us, sets himselfe and his partie in diamer opposed to Pro<g ref="char:EOLhyphen"/>testants; so that in effect his words import that in some things they and the Papists do not yet agree, but all in good time they may give one another the right hand of fellow<g ref="char:EOLhyphen"/>ship. My Authours words are these; <hi>Cicut olim pia erant sacri<g ref="char:EOLhyphen"/>ficia secundum legem quamvis ob implis sacerdotibus celebrata, fic pi<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> res est imperium quamvis ab impio teneatur;</hi> That is, as under the old Law the Sacrifices were holy, though celebrated by unholy Priests; so Monarchy is a sacred thing, though the <hi>Prince</hi> be wicked.</p>
+            <p>My third proofs, and of the first magnitude are from Saint <hi>Hierom</hi> and Saint <hi>Austin,</hi> men as free from flattery as <hi>Iohn Good<g ref="char:EOLhyphen"/>win,</hi> and altogether as great strangers from any pondarlike soothing of a <hi>Princes</hi> Iusts; the first, in one place hath these words, <hi>nulla creatura judicat regem, sed deus benedictus;</hi> no mor<g ref="char:EOLhyphen"/>tall creature can judge the King, only God our blessed crea<g ref="char:EOLhyphen"/>tour. In another place, <hi>contra regis injurias nulla in populo relicta est potestas magistratus deprivatis principes demagistratibus, deus de principibus judicat.</hi> In the former words <hi>Iohn Goodwin</hi> might have fallen upon the creature, because it seemed to be Indivi<g ref="char:EOLhyphen"/>dually spoken, and was not collectively united in a Repre<g ref="char:EOLhyphen"/>sentative sence; but here in the latter Saint <hi>Hierom</hi> doth
+<pb n="6" facs="tcp:117504:5"/>seeme as it were to silence the <hi>Iewish</hi> nociferations <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> monster the People crying for the bloud of their King <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> saith hee, the Magistrate condemneth the Felon, the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Magistrate, but God only the King, for against the <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ju<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies of a King there is no power left in the people to p<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them. <hi>Si quis de nobis orex</hi> (saith St. <hi>Austen</hi> also) <hi>justitie <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mites transcendere voluerit ate corripi potest; si vero tu excesseri<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> te corripiet? loquimur enim tibi, sed si volueris audis, si autem volu<g ref="char:EOLhyphen"/>eris quis <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> damnabit? nisi is qui se promutiavit esse iustitiam.</hi> If any of Us, O King, transgresse the rules of our obedience, it is in thy power to punish us, but if thou exceedest rhe measure of thy power, who shall reproove thee? wee supplicate thee, wee petition thee, if thou wilt, thou hearest us, if thou <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not, who shall condemne thee, but him that hath pronoun<g ref="char:EOLhyphen"/>ced himselfe to be the righteous judge. This is the Harmony of Antiquity, and many more authorities might be heaped on this, but I professe one line of these mens writing doth more sway my judgement then a library full of partiall rela<g ref="char:EOLhyphen"/>tions gathered out of the bookes of Presbyterian State po<g ref="char:EOLhyphen"/>chers, or Independent Regicides; and did not base cove<g ref="char:EOLhyphen"/>tousnes, ambition, at first a desire, and now a feare of re<g ref="char:EOLhyphen"/>venge, interpose between their consciences, and their judge<g ref="char:EOLhyphen"/>ments, I am confident many of them would disband them<g ref="char:EOLhyphen"/>selves, and by a private life confesse their seductions.</p>
+            <p>Every one hath red the charge drawn up against the Mo<g ref="char:EOLhyphen"/>narch, it seemes it was in the composition of it a service of soe quick a reflection to the Honour of Lucifer, the <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d would not suffer the Civilian to be recompenced by the me<g ref="char:EOLhyphen"/>diation of his Trustees in Parliament, but in all haste sent for him to his own Court to gratifie him when he had <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cramed himselfe, as a Duch beast, for such along journey, that there might be <hi>gurges in gurgite,</hi> one gulfe swallowing up another.</p>
+            <p>I expect every day to heare that <hi>Iohn Cooke</hi> followeth in the second place, for like the villain <hi>Selomon</hi> speaketh of, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flyeth, when no man pursueth him, for a company of Boyes in <hi>Chancery-lane</hi> having recovered a lost Football in the streets,
+<pb n="7" facs="tcp:117504:5"/>crying out, here tis, here tis, (such horred torments are pro<g ref="char:EOLhyphen"/>dused by smal causes in the consciences of blud-thirsty men) this selfe condemning <hi>Gaderine</hi> ran violently downe the Temple toward the water, just as the swine when the Divill had entred into them, and drowned he had bin most cer<g ref="char:EOLhyphen"/>tainly, but that there is a fatality in our Proverbe, <hi>He that is borne to be hanged, shall never be drowned.</hi> That he meanes to finish like <hi>Judas</hi> in an Elder tree, he doth me thinkes insinu<g ref="char:EOLhyphen"/>ate in the close of his most scientificall Book; for you must know that wickednesse condemned by its owne witnesse, is very tymerous, and being over-pressed with conscience al<g ref="char:EOLhyphen"/>wayes fore-casteth grievous things; that he shall dye by the hands of a <hi>Ravilliacke</hi> is his feare, this <hi>Ravilliacke</hi> was one that murthered a King; and surely <hi>John Cooke</hi> cannot think that there is any such meritorious Transubstantiation in the worke, that the killing of a King should make the destroyer a King; therefore he being the murtherer (to helpe this <hi>Ter<g ref="char:EOLhyphen"/>tullus</hi> to make up sence) doth intend to be his owne executi<g ref="char:EOLhyphen"/>oner.</p>
+            <p>
+               <hi>Fairfax</hi> also with <hi>Crumwell, Jreton, Steele, Bradshaw,</hi> and ma<g ref="char:EOLhyphen"/>ny others (whose faces you often meet with in Tapestry, in the History of those that scourged Christ) will make their sodain departure with a <hi>cupio dissolui,</hi> we desire to be dissolved that we may be with <hi>Dorislaus,</hi> for Birds of a feather must flocke together; for over all of them there is spread a heavie night, blacknesse of darkenesse, and an image of that which shall receive them. And <hi>John Goodwin,</hi> who doth tenter his faculties to eloquentiall blasphemy, with all his bemiring flattery, can but in a poore degree sweeten this life unto them. But the Monarch being gone who must draw up this charge against Monarchy, none so sit as <hi>John Goodwin;</hi> for, from Gods answer to the <hi>Jewes</hi> requiring a King, this shall be the manner of the King that shall reigne over you, he shall doe thus and thus; as the cabinet Councellour to the Al<g ref="char:EOLhyphen"/>mighty, he telleth his credents in his last Books, that it was the cleer intent of God in presenting such an ample draught and particular of the Regall pressures unto them, to possesse
+<pb n="8" facs="tcp:117504:6"/>them (and in them all other People and Nations of the World b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sides, with a cleer understanding and serious <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sideration of the many sad inconveniences and burth<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which would attend the gouernment by Kings. Now if I answer, that the <hi>Jews</hi> found themselves under some pressures or burthens, which they beleeved upon some prudentiall motives might be removed from them, by the govern<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of a King. He replyeth in another place, that God gave them a King as a curse when he conceived displeasure against them; therefore they may upon opportunity given (and that is by getting their King into a sad condition) change this Go<g ref="char:EOLhyphen"/>vernment. By the same consequence, all you Wives that have bad Husbands, there is no King in power, no Law in <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take your opportunities, leave them, and take fresh co<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for this opportunity came upon them when God was <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleased with your great Grandmother <hi>Eve, Ger.</hi> 3.16. <hi>In sor<g ref="char:EOLhyphen"/>row shalt thou bring forth children; thy desire shall be to thy husband, and he shall rule over thee.</hi> But let us make some progresse <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Scriptures, and examine whether God doth seeme to di<g ref="char:EOLhyphen"/>staste and dislike this forme of Government (as <hi>John Goodwin</hi> insinuates;) for certainly, if God had foreseen it more ob<g ref="char:EOLhyphen"/>noxious to inconveniences then others, his provident<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> love to his creatures would not have suffered it to continue through all succession of time from the very beginning of the new World, and to disperse through all the regions of the earth; for we may very safely aver, that all People and Na<g ref="char:EOLhyphen"/>tions, both Christians and Heathens, hath submitted to, and approved of this forme of Government, unlesse it be <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obscure angle of the World which cannot be sought out <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Map under a Sabaoth dayes journey.</p>
+            <p>First, that Kings there should be, God himselfe in the 17. of <hi>Genesis</hi> ver. 6. by way of Promise telleth <hi>Abraham, I <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blesse Sarah thy wife, and give thee a Sonne also of her, she shall be a Mother of Nations, Kings of People shall be of her.</hi> And in ver. 2<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>And as for Ismael, I have heard thee, behold, I have blessed him, <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Princes shall be beget, and I will make him a great Nation.</hi> Yet <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> here no newes of complaint or displeasure against this Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="9" facs="tcp:117504:6"/>no room for <hi>John Goodwins</hi> rotten engins of sad inconveniences and many burthens, by which he would <hi>Je<g ref="char:EOLhyphen"/>suite</hi> like, tempt People to under-mine Monarchies. But the God of heaven doth here (delighting in his servant <hi>Abraham,</hi> the Father of the faithfull) promise to his Posterity the grea<g ref="char:EOLhyphen"/>test blessings and felicities that this World is capable of, <hi>to wit,</hi> to make them Kings of People and Princes of Nations. Before I proceed any further, I shall let loose two Questions to <hi>John Goodwin,</hi> or any sully text of them all.</p>
+            <p>First, whether these words import, or can beare any such monstrous and ridiculous senses at are taught and Printed? that the King is but the vassall to the People, takes wayes to be true to his trust, if he faile, and displease them, they may turne him out of doores, out of his Kingdome, nay, out of the World.</p>
+            <p>Secondly, what the People in the choyce of these Kings (whose originall we see God determined) did contribute by their election? What will become now of the Peoples supe<g ref="char:EOLhyphen"/>riority, in a collective sense? The Peoples being above the King in their representative capacity; and the People being above the King, because they made Kings. I perceive <hi>John Goodwin</hi> hath glatted and tyred himself, in wresting the Scrip<g ref="char:EOLhyphen"/>tures by divided sences. I wish him therefore to betake him<g ref="char:EOLhyphen"/>selfe to some new Alley, and refresh himselfe by an edifying exposition upon the <hi>Alchoron.</hi>
+            </p>
+            <p>Some perhaps may reply, that these Kings had an extra<g ref="char:EOLhyphen"/>ordinary calling, and therefore the People were immediate<g ref="char:EOLhyphen"/>ly bound to their obedience; but that God hath not dealt so with every Nation, there is not amongst all People the same reason of subjection. This Objection I confesse is alike ob<g ref="char:EOLhyphen"/>vious and futile. And for Answer to it I shall rise higher and look into the affaires of the old World before the deluge. In <hi>Gen.</hi> 23.6. thus we read; <hi>He are us, my Lord</hi> (say the Sons of <hi>Heth</hi>) <hi>thou art a mighty Prince amongst us.</hi> And if we looke into <hi>Gen.</hi> 14. we shall prove him a mighty Prince, for he over came foure Kings at once. True it is we usually call them Patri<g ref="char:EOLhyphen"/>arks that ruled before the floud; but to make <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:117504:7"/>as the Patriarke is here stiled a Prince, so <hi>David</hi> a Prince is also stiled a Patriarke, <hi>Acts</hi> 2.29. saith Saint <hi>Peter, Let me speak boldly unto you of the Patriark David.</hi> Thus by the power of tr<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> we have gained these two Conclusions. First, that Kings and Patriarks hold by one Commandement. Secondly, that subjection to Kings bindeth as a law of Nature, being given for such to the old World, long before any Law came into Tables. By this time it appeares I did not straine my mode<g ref="char:EOLhyphen"/>sty, in affirming that all Nations of the World have embra<g ref="char:EOLhyphen"/>ced this kind of Government. And having proved it warran<g ref="char:EOLhyphen"/>table by the law of Nature, what a horrible &amp; unconsciona<g ref="char:EOLhyphen"/>ble attempt is it in <hi>John Goodwin</hi> to seeke by fallacies to make the people overthrow their own natural Liberty, and by un<g ref="char:EOLhyphen"/>christian ill aquations to indeavour to silence in them th<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se dictates which nature inculcates; and that is now, obedience and subjection to <hi>Charles</hi> the second.</p>
+            <p>Let us wade a little deeper: We have a Law, saith <hi>John Goodwin,</hi> and by that Law he is accountable to the People; and if he be found guilty (they being his Judges) he is not exempted from the penalty. <hi>Speake not evill of the King, no not in thy thought,</hi> saith our Scripture; and if not speake evill, cer<g ref="char:EOLhyphen"/>tainly much lesse doe evill, much lesse yet murther him, sei<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Revenue, and banish his Posterity. Now how much ve<g ref="char:EOLhyphen"/>nemous contumely, and malicious obloque hath his soul<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pen spattered upon the ashes of our King; a pious, prudent, m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnanimous, and religious King, nay, a dead Kings and <hi>De mortuis nil nisi bonum;</hi> nothing but good be spoken of the dead, was ever the rule of Christians.</p>
+            <p>In another Section; I wonder, saith he, whether any King can be saved? I answer mouth; hath not God himselfe told thee, That he hearts of Kings are in his hands, and he dis<g ref="char:EOLhyphen"/>poseth them as it seemeth good to him. Wonder rather what will become of thy owne soule, that hast bewitched so many soules to embrue their hands in the blood of their King. If these things be not neer of kin to that sin which shall never be forgiven, I am much mistaken; for you have boasted a<g ref="char:EOLhyphen"/>bove all men of new lights; and therefore to you the Apo<g ref="char:EOLhyphen"/>stle
+<pb n="11" facs="tcp:117504:7"/>speaketh it, <hi>Hebrews; It is impossible for those who were once enlightned, if they shall fall away, to renew them to repentance.</hi> And if these Principles which you maintain be not Apostate from the Doctrine of Christ, who commands us to <hi>Give unto Caesar the things which are Caesars,</hi> let all honest men judge. The Do<g ref="char:EOLhyphen"/>ctrine of the Scripture is, <hi>Take away the evill Councellours from about the king, and his throne shall be established in righteousnesse. John Goodwin</hi> saith, if the King breake promise with his Peo<g ref="char:EOLhyphen"/>ple, take away his Militia, his life, and translate his King<g ref="char:EOLhyphen"/>dome to a Councell of State. What? shall the Fathers un<g ref="char:EOLhyphen"/>faithfulnesse be punished upon the Son too? I, saith he, the bad qualities run in a blood; they have meditated revenge e<g ref="char:EOLhyphen"/>ver since their Grandmother was beheaded. Let any man that hath but soule enough to preserve him from sinking, judge how ridiculous this man hath made himselfe. And let all <hi>English-men,</hi> that love the peace and freedome of their Nati<g ref="char:EOLhyphen"/>on, take notice from another passage of his Book, into what an unknown labyrinth of misery they are tumbling, if they prevent it not by setling the King. For his Opposer mind<g ref="char:EOLhyphen"/>ing him of an advantage which had accrewed to the Parlia<g ref="char:EOLhyphen"/>ment, by an accommodation with the murthered King, that it would have reinvested them in the Peoples affections. I va<g ref="char:EOLhyphen"/>lue, saith he, these words as a puffe of winde. So that there is a <hi>conclamatum est</hi> of the Peoples election of any new Mem<g ref="char:EOLhyphen"/>bers; farewell Kings, Parliaments, Liberty, Property, Reli<g ref="char:EOLhyphen"/>gion and all, if not timely prevented. I am engaged in the approach of yeers, fuller of memory then hope (as to the things of this life.) But whilest I have ab lity to hold a Pen, I shall speake for the truth. And since God hath said, <hi>By me Kings reigne:</hi> And since God hath said. <hi>Touch not mine annoint<g ref="char:EOLhyphen"/>ed;</hi> let God be true, and let the whole Army, Parliament, and all the Proctors of Rebellion, and all the seducers of the People be esteemed as they are, lyars. And since <hi>David,</hi> (who knew Gods minde as well as <hi>John Goodwin</hi>) when <hi>A<g ref="char:EOLhyphen"/>bishai</hi> tempted him, and told him, <hi>God hath shut up thine enemy King Saul, I pray thee let me smite him with my speare to the earth.</hi> This tyrant, this persecutor, this possessed party, this de<g ref="char:EOLhyphen"/>stroyer
+<pb n="12" facs="tcp:117504:8"/>of the People, or what you will, since <hi>David</hi> checked him, saying, <hi>destroy him not, who can lay his hands upon the Lo<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> annointed, and be guiltlesse?</hi> Why may not I tell <hi>John Goodwin,</hi> when he teacheth me to destroy my Soveraigne and his Po<g ref="char:EOLhyphen"/>sterity, that he is the Son of destruction and perdition. Ew<g ref="char:EOLhyphen"/>ry temperate and disinterested man hath the insinuations of naturall reason for his instructer and councellour; let <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hold with Reason rather then against it, inviolably persist<g ref="char:EOLhyphen"/>ing in this, that what is most reasonable is most religious; for they suffer themselves to be sequestred of the use of Rea<g ref="char:EOLhyphen"/>son that adhere to the designes of other men without any other exercise of judgement, and usually like bruit Beasts are led to their owne slaughter.</p>
+            <p>We have heard that obedience and subjection to all Kings, for that respects their Office, and no man can deny but we owe estimation and effection to good Kings, for that respects their vertues. Now every <hi>Englishmans</hi> choyce (in point of conscience) lyeth thus; whether he will yeeld his subjecti<g ref="char:EOLhyphen"/>on to <hi>Charles</hi> the second the indubitable Sonne and heire of <hi>Charles</hi> the first, of bleeding memory; who hath authority from the Word of God for the sanction of his authority; and to the known Lawes of the Land, which are by their in<g ref="char:EOLhyphen"/>stitution conformable to the Word and Lawes of God? or whether he will give up his obedience to I know not, not he knowes not what Lawes, nor when enacted, nor by what Authority ratified and confirmed? that is, whether his Rea<g ref="char:EOLhyphen"/>son will adhere to a certaine good and an absolutely lawfull convenience, or to an evill absolutely unlawfull, uncertain<g ref="char:EOLhyphen"/>ly convenient. Having our King we keep our Laws, he swears to maintain and govern by them; forsaking him we destroy our Laws, and know not what we shall have in lieu of them. He that seeks an uncertain good by means certainly evill, de<g ref="char:EOLhyphen"/>serves to encounter with a certaine mischiefe. And if this Councel of State must be our Law-givers, I will hold my—to <hi>Crumwels</hi> nose; we meet with a mischiefe for a remedy, not a remedy for a mischiefe, <hi>John Goodwin.</hi>
+            </p>
+            <p>Amongst men there is no stronger seal of security, then the
+<pb n="13" facs="tcp:117504:8"/>confermation of an oath; if we make use of this we make use of the best means that God hath left us for our preser<g ref="char:EOLhyphen"/>vation, and it cannot reasonably be required of us to use better then we have. This we require at the mouth and heart of our King, more we shall not obtaine from one <hi>Vtopian Architects:</hi> but a King hath a Soule to forfeit as well as <hi>Crumwell;</hi> but not the same temptations to trassique with the devill as he hath; for the King is appointed by God to the Crowne or to his inheritance, but the <hi>Crumwellians</hi> cannot culminate in this spheare without a conjunction of Trea<g ref="char:EOLhyphen"/>son, Rebellion, Revenge, Repine, Oppression, Orphanizing of children. desolation of Widdowes, Bloud, Murder, Parri<g ref="char:EOLhyphen"/>cide, Regicide and Perjuries as many as advantages; and those too guessed at by their thankesgivings. Now let him that loves his own welfare, the freedom of his Country, and the flourishing of his owne Posterity, aske <hi>Iohn</hi> whither the many sad inconveniences, and burthens, are most like to at<g ref="char:EOLhyphen"/>tend upon the Government of <hi>Charles</hi> the second, or that, of <hi>Oliver</hi> (<gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thinkes he was never christened for a King of England) the first, if <hi>Iohn</hi> tell us the late King was fedifragous, and that this disease is Hereditary; besides that, it is a scur<g ref="char:EOLhyphen"/>rilous reprocah, wee know <hi>Oliver</hi> had a Tyburne hird to his son for poysoning his master an Apothecary, and thus, <hi>egre<g ref="char:EOLhyphen"/>gia est soholes scelerato nata parente.</hi> Wee know also that he fa<g ref="char:EOLhyphen"/>vours much the opinion of <hi>Lysander</hi> (for actions are uner<g ref="char:EOLhyphen"/>ring commentaries upon mens minds) who held, that there was no meliority between truth and a lye, but the estimation and dignity of either was to be defined by the use, and profit of it. We know these Law-mockers (not Law-makers) play with oaths as children do with nuts, and with <hi>Co<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in the Comedy, think they were made to thrive by. They kn<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w no such evill by our King, he never disappointed his oath, he never dated the resolutions of his promises by the Calender of advantage, his tender yeares had bin spent in an Imbibiti<g ref="char:EOLhyphen"/>on of morall precepts, had not their prodigious impieties abridged him to an early experience of his politique capa<g ref="char:EOLhyphen"/>city; his inclinations may be moulded by the advice of his faithfull Councellours to all vertue. <hi>Cromwell</hi> h<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a consci<g ref="char:EOLhyphen"/>ence
+<pb n="14" facs="tcp:117504:9"/>callovs and brawny, and by childrens tears and widows prayers lesse penetrable then is his <hi>Buffe-doublet</hi> by an un<g ref="char:EOLhyphen"/>heated Tobaccopipe. All you therefore (dear Country-m<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n) that are free, ensnare not your selves in their councels, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their <hi>Juramenia latronū,</hi> they are the Covenants of Theevs and Robbers, by which they indent to you confution, and to themselves damnation; hasty Vowes are best performed by repentance. If any of you have swallowed the <hi>Kircks bo<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>? ne sit Sacramentum pietatis vinculum iniquitatis;</hi> make not the Sacrament of piety and obligation of iniquity; recant your unadvizednesse in swearing and doubt not the issue. Are you ingaged by the Independent Higlers? <hi>injusta vincula rumpit ju<g ref="char:EOLhyphen"/>stitia.</hi> Justice must break the wicked bonds asunder: repent thy purpose, indeavour not to perfect thy presumption.</p>
+            <p>Have any of you vowed to the effeminate importunities of kindred, friends, any relations, not to beare armes? <hi>ne sit sacramentum pietatis, impedimentum pietatis.</hi> Let not the Sacra<g ref="char:EOLhyphen"/>ment of piety be any impedement to justice; break through it with repentance, and with your lives and fortunes pursue the re-establishing of your King, better it is your wives breed sorrow for a short absence, then all your children should be<g ref="char:EOLhyphen"/>come beggars; the youthfull Father of your Countrey will recompence those griefes, and Honour your obedience.</p>
+            <lg>
+               <l>Then let all them that love their King</l>
+               <l>Close in this <hi>Chorus,</hi> and let's sing</l>
+               <l>
+                  <hi>Saluus sit nobis Carolus, saluusque senatus.</hi>
+               </l>
+               <l>
+                  <hi>Moribus hic vivat Principis, ille Patris.</hi>
+               </l>
+               <l>To thee (great <hi>Charles</hi>) a hart I bring</l>
+               <l>As an oblation to my King.</l>
+               <l>Thy Peoples love, and Power to show it;</l>
+               <l>That knaves may feele it, thou mayest know it;</l>
+               <l>Thy Fathers vertues, and the Crowne,</l>
+               <l>The right of Senate, and thy owne</l>
+               <l>Heaven send thee, that we yet may s<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>England restor'd to liberty.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
